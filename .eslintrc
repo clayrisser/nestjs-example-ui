@@ -46,10 +46,15 @@
         "identifiers": true,
         "lang": "en_US",
         "skipWords": [
+          "eslint",
+          "keycloak",
           "nestjs",
+          "openid",
           "prerender",
           "redux",
+          "req",
           "rerender",
+          "userinfo",
           "webpack",
           "zeit"
         ],
