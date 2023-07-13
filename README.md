@@ -4,6 +4,8 @@
 
 > nextjs ui for nestjs-example
 
+![](assets/nestjs-example-ui.png)
+
 Please ★ this repo if you found it useful ★ ★ ★
 
 ## Dependencies
